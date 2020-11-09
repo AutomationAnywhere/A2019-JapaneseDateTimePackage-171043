@@ -1,0 +1,11 @@
+{
+  "name": "JapaneseDateUtils",
+  "label": "[[label]]",
+  "description": "[[description]]",
+  "group": "com.automationanywhere",
+  "artifactName": "bot-command-JapaneseDateUtils",
+  "packageVersion": "1.1.0",
+  "iconPath": "icons/",
+  "codeVersion": "",
+  "commands": []
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="DateIcon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.56"
+     inkscape:cx="78.457551"
+     inkscape:cy="160.92969"
+     inkscape:document-units="px"
+     inkscape:current-layer="text834"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="字"
+       transform="scale(0.9908604,1.0092239)"
+       id="text12"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:Meiryo;-inkscape-font-specification:'Meiryo, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4c6a8d;fill-opacity:1;stroke:none;stroke-width:1.76161">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.9465px;line-height:1.25;font-family:'メイリオ';-inkscape-font-specification:'メイリオ';fill:#4c6a8d;fill-opacity:1;stroke:none;stroke-width:0.724339"
+         id="text834"
+         transform="scale(1.0092239,0.99086041)"
+         aria-label="日">
+        <path
+           id="path836"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.9465px;font-family:'Meiryo UI';-inkscape-font-specification:'Meiryo UI Bold';fill:#4c6a8d;fill-opacity:1;stroke-width:0.724339"
+           d="M 52.31354,62.926005 H 15.230271 V 66.47243 H 3.9356785 V 1.8272717 H 63.762325 V 66.47243 H 52.31354 Z m 0,-35.84973 V 11.001719 H 15.230271 V 27.076275 Z M 15.230271,53.443174 H 52.31354 V 35.942338 H 15.230271 Z" />
+      </g>
+    </g>
+  </g>
+</svg>
